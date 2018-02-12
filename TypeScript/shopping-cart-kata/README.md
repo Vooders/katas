@@ -1,4 +1,4 @@
-#Checkout Kata
+# Checkout Kata
 
 We have a shopkeeper with a new checkout system. He enters the SKU (Stock Keeping Unit) of each of the items, hits total and the total price is displayed. Goods are priced individually, however there are weekly special offers for when multiple items are bought. For example "A99 are 50 each or 3 for 130".
 
