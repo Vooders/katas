@@ -4,7 +4,7 @@ We have a shopkeeper with a new checkout system. He enters the SKU (Stock Keepin
 
 Weekly offers change frequently.
 
-    SKU            Unit Price            Special Offer
+    SKU            Unit Price        Special Offer
     A99            50                3 for 130
     B15            30                2 for 45
     C40            60
